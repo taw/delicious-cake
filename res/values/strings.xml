@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Delicious Cake</string>
+  <string name="waiting_for_nfc">Waiting for NFC...</string>
+  <string name="enter_amount_charged">Enter amount charged</string>
+</resources>
